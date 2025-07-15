@@ -25,19 +25,7 @@
 
 ---
 
-### 📌 Featured Projects
-
-- 🔹 [Automation Project: Selenium + TestNG + Page Object](#)
-- 🔹 [API Testing Project: Rest-Assured + Postman](#)
-- 🔹 [Database Testing with JDBC](#)
-- 🔹 [Mobile App Testing with Appium](#)
-
----
-
 ### 🏆 Certifications
 
 - ✅ ISTQB Foundation Level Certified
 
----
-
-> *“Quality means doing it right when no one is looking.”* – Henry Ford
