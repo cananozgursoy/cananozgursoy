@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Canan</h1>
-<h3 align="center">QA Engineer | ISTQB Certified | Manual & Automation Tester</h3>
+<h3 align="center"> Manual & Automation Tester | ISTQB Certified |</h3>
 
 ---
 
